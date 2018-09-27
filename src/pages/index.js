@@ -21,7 +21,7 @@ display: block;
 
 const IndexPage = () => (
   <Layout>
-    <Title>Hi people</Title>
+    <Title>Hi  i made changes </Title>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <Image src={icon} alt='this is an image' />
